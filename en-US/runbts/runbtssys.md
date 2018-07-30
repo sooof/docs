@@ -13,12 +13,17 @@ sort: 2
 
 * 登陆上openbts3.09_52
 
-   ```
-   root@9a59ca6ebc6a#cd /usr/local/src/openbts-2.6.0Mamou/apps/
-   ```
-   首先运行：
+  运行smqueue：
+  
+  ```
+  root@9a59ca6ebc6a#cd /usr/local/src/openbts-2.6.0Mamou/smqueue/
+  root@9a59ca6ebc6a/usr/local/src/openbts-2.6.0Mamou/smqueue# ./smqueue
+  ```
+
+   运行asterisk 和 OpenBTS：
 
    ```
+   root@9a59ca6ebc6a#cd /usr/local/src/openbts-2.6.0Mamou/app
    root@9a59ca6ebc6a:/usr/local/src/openbts-2.6.0Mamou/apps# asterisk -v &
    root@9a59ca6ebc6a:/usr/local/src/openbts-2.6.0Mamou/apps# ./OpenBTS
    ```

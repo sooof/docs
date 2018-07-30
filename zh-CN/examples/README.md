@@ -6,10 +6,7 @@ sort: 5
 
 # 事例
 
-GSM
+OpenBTS支持GSM的四个频段(850,900,1800,1900)，以下是其中两个频段的配置：
 
-
-通过文字来描述如下：
-
-- [GSM900](gsm900/gsm900conf.md)
-- [GSM1800](controller/controller.md)
+- [GSM900](gsm900conf.md)
+- [GSM1800](gsm1800conf.md)

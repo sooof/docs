@@ -3,16 +3,6 @@ name: docker 安装
 sort: 2
 ---
 
-# install_ubuntu1404_docker
-
-
-## Tools Required
-* 笔记本
-
-## Pre-installed Software
-* Ubuntu 14.04
-* Docker
-
 ## 在 Ubuntu 14.04 安装 Docker
 
 Docker利用Linux容器(LXC)虚拟化技术提供一份部署环境。Docker目的是创建可移植,可分发给任何的Docker环境中运行。Docker由于是OpenVZ的作品,对内核有一些要求，不要在14.04版本的Ubuntu仓库中已经可以查找到。

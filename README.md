@@ -1,8 +1,8 @@
 
-# OpenBts Kit docSt
+# OpenBts Kit docs
 
 
-https://github.com/sooof/medoc
+https://github.com/sooof/docs
 
 ## License
 

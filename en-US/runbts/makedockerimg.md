@@ -4,7 +4,7 @@ sort: 1
 ---
 
 
-# 登陆OpenBts映像
+# 制作Docker映像
 
 ## 将openbts系统压缩文件转换为本地Docker镜像
 

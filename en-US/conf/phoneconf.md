@@ -1,6 +1,6 @@
 ---
-name: sim 刷写
-sort: 1
+name: 手机配置
+sort: 3
 ---
 
 # 公司SIM刷号文本
